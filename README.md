@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  --> 
 
 <h1 align="center">Hi 👋, I'm Anshuman Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <br>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **ReactJS and NodeJS and Other FrameWorks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshu479](https://github.com/anshu479)
 
